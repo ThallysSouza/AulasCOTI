@@ -1,0 +1,7 @@
+C:\Thallys\Aula03\Projeto01\obj\Debug\Projeto01.csprojAssemblyReference.cache
+C:\Thallys\Aula03\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\Thallys\Aula03\Projeto01\bin\Debug\Projeto01.exe.config
+C:\Thallys\Aula03\Projeto01\bin\Debug\Projeto01.exe
+C:\Thallys\Aula03\Projeto01\bin\Debug\Projeto01.pdb
+C:\Thallys\Aula03\Projeto01\obj\Debug\Projeto01.exe
+C:\Thallys\Aula03\Projeto01\obj\Debug\Projeto01.pdb
