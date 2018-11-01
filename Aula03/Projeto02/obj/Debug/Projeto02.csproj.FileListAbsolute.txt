@@ -1,0 +1,10 @@
+C:\Thallys\Aula03\Projeto02\bin\Debug\Projeto02.exe.config
+C:\Thallys\Aula03\Projeto02\bin\Debug\Projeto02.exe
+C:\Thallys\Aula03\Projeto02\bin\Debug\Projeto02.pdb
+C:\Thallys\Aula03\Projeto02\bin\Debug\Newtonsoft.Json.dll
+C:\Thallys\Aula03\Projeto02\bin\Debug\Newtonsoft.Json.xml
+C:\Thallys\Aula03\Projeto02\obj\Debug\Projeto02.csprojAssemblyReference.cache
+C:\Thallys\Aula03\Projeto02\obj\Debug\Projeto02.csproj.CoreCompileInputs.cache
+C:\Thallys\Aula03\Projeto02\obj\Debug\Projeto02.csproj.CopyComplete
+C:\Thallys\Aula03\Projeto02\obj\Debug\Projeto02.exe
+C:\Thallys\Aula03\Projeto02\obj\Debug\Projeto02.pdb
